@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi there! I'm Mateusz  
 
-<!--
-**MateuszOcios/MateuszOcios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 Passionate about crafting modern and responsive user interfaces.  
+💻 I specialize in **HTML, CSS, and JavaScript**, building intuitive and visually appealing web experiences.  
+🚀 Constantly learning and exploring new frontend technologies to improve my skills.  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Mateusz's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateuszOcios&show_icons=true&theme=radical)
+
+## 🔗 Connect with me  
+- GitHub: https://github.com/MateuszOcios/MateuszOcios
+- Portfolio: #
+
+💡 **Check out my projects below!** 🚀
